@@ -1,0 +1,12 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Breed",
+    "value" : "Normal"
+  }, {
+    "trait_type" : "Color",
+    "value" : "Tabby"
+  } ],
+  "description" : "The world's most adorable cat.",
+  "image" : "https://gateway.pinata.cloud/ipfs/QmS2mCKsdinyvSUGWPAjFDDE7ChjPEvjjSntSpoi8abroa",
+  "name" : "Small cute"
+}
